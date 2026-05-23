@@ -20,4 +20,4 @@ chmod +x monitor.sh
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## Autor
-Cristian Robledo Macleod — [LinkedIn](https://www.linkedin.com/in/cristian-robledo-macleood-7538331b5/)
+Cristian Robledo Macleood — [LinkedIn](https://www.linkedin.com/in/cristian-robledo-macleood-7538331b5/)
